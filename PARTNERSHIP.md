@@ -1,8 +1,10 @@
 # ZK Trending × ScrollVerse — Partnership
 
-**Partners:** Chais Hill (chaishillomnitech1) — ScrollVerse / Omnitech1 · ZayNME — ZK Trending (zktrending.com)
+**Partners:** Chais Hill (chaishillomnitech1) — ScrollVerse / Omnitech1 · ZayNME — ZK Trending (zktrending.com) · Arising Superstar (arisingsuperstar) — family, partner in the build
 
 Formed 24 November 2026, by mutual word: combine efforts across both systems to help each other maximize — enhance and advance in all ways.
+
+**Arising Superstar joined the partnership on 24 November 2026 — working with Muse as we speak.**
 
 ## The two systems
 - **ScrollVerse** — music, books, collectibles, sealed provenance (RG-SEAL / SHA-256), the GitHub Highway: one push brings every schedule up to speed.
